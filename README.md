@@ -15,8 +15,9 @@
   </a>
 </p>
 
-- ポートフォリオ： [あるある神経衰弱：界隈探求ゲーム](https://aruaru-games.com) を紹介させてください
-  - Qiita：[【個人開発】様々な界隈のあるあるを神経衰弱で遊び、Xで交流するサービスを作りました！](https://qiita.com/pakira-56A/items/8fde551e0e14520d6f3c)
+- ポートフォリオ：[**あるある神経衰弱：界隈探求ゲーム**](https://aruaru-games.com) を紹介させてください
+  - 当サービスを[全体的に操作してる様子を撮影した動画(３分)](https://drive.google.com/file/d/1ANewasmQ9Rs_Pi6g4G_ywwmX-Y41VhOE/preview)
+  - 当サービスを解説したQiita記事：[【個人開発】様々な界隈のあるあるを神経衰弱で遊び、Xで交流するサービスを作りました！](https://qiita.com/pakira-56A/items/8fde551e0e14520d6f3c)
 [![Image from Gyazo](https://i.gyazo.com/f974550f90299f41f0773b6c31fc3db3.png)](https://aruaru-games.com)
 
 
