@@ -34,7 +34,7 @@
     そこから手動で修正やコンポーネント化を加えたり、基礎的なJavaScriptの書き方を模写して学んでゆきました。
   - **当サービス概要**
     - とにかく高速でご挨拶をして、好かれてください！！
-[[![Image from Gyazo](https://i.gyazo.com/459e9a399414cd8a4e5fa2f101b6b09f.png)](https://gyazo.com/459e9a399414cd8a4e5fa2f101b6b09f)](https://high-speed-greetings-quiz.vercel.app/)
+[![Image from Gyazo](https://i.gyazo.com/459e9a399414cd8a4e5fa2f101b6b09f.png)](https://high-speed-greetings-quiz.vercel.app/)
 
 <h3 align="left">言語およびツール</h3>
 <p align="left">
