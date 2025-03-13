@@ -25,7 +25,7 @@
     - 投稿された界隈とゆかりがあってもなくても！　メジャーから超ニッチまで・あらゆるカルチャーを遊んで知れる
     - X（旧Twitter）でシェアしあう事で、あらゆるカルチャーのユーザーとも交流ができる
     - 共通の趣味・話題がない間柄でも、互いを知り・深く交流できるようサポートします
-[[![Image from Gyazo](https://i.gyazo.com/f974550f90299f41f0773b6c31fc3db3.png)](https://aruaru-games.com)](https://aruaru-games.com)
+[![Image from Gyazo](https://i.gyazo.com/f974550f90299f41f0773b6c31fc3db3.png)](https://aruaru-games.com)
 
 - [**高速ご挨拶クイズ**](https://high-speed-greetings-quiz.vercel.app/)
   - React（JavaScript）をキャッチアップし始めて３日後、４日間で作ったミニアプリです！
