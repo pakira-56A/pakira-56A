@@ -61,17 +61,21 @@
 
 <h1 align="center">🥳 ポートフォリオ紹介 🥳 </h1>
 
-### [あるある神経衰弱：界隈探求ゲーム](https://aruaru-games.com)
-- **当サービス概要**（遊んでいただいた皆様の感想はこちら → [#あるある神経衰弱](https://x.com/search?q=%23あるある神経衰弱&src=recent_search_click&f=live)）
+## [あるある神経衰弱：界隈探求ゲーム](https://aruaru-games.com)
+[![Image from Gyazo](https://i.gyazo.com/f974550f90299f41f0773b6c31fc3db3.png)](https://aruaru-games.com)
+- **制作期間：３ヶ月**。主にプログラミングスクール『RUNTEQ』で習った Rails と JavaScriptで作りました！
+- 当サービスを[全体的に操作してる様子を撮影した動画(３分)](https://drive.google.com/file/d/1ANewasmQ9Rs_Pi6g4G_ywwmX-Y41VhOE/preview)
+- 当サービスを解説したQiita記事：[【個人開発】様々な界隈のあるあるを神経衰弱で遊び、Xで交流するサービスを作りました！](https://qiita.com/pakira-56A/items/8fde551e0e14520d6f3c)
+
+### 当サービス概要
   - 君や誰が投稿した`界隈あるある`５つを印字したカードで、神経衰弱として遊ぼう！
   - 投稿された界隈とゆかりがあってもなくても！　メジャーから超ニッチまで・あらゆるカルチャーを遊んで知れる
-  - X（旧Twitter）でシェアしあう事で、あらゆるカルチャーのユーザーとも交流ができる
   - 共通の趣味・話題がない間柄でも、互いを知り・深く交流できるようサポートします
-[![Image from Gyazo](https://i.gyazo.com/f974550f90299f41f0773b6c31fc3db3.png)](https://aruaru-games.com)
-  - **制作期間：３ヶ月**。主にプログラミングスクール『RUNTEQ』で習った Rails と JavaScriptで作りました！
-  - 当サービスを[全体的に操作してる様子を撮影した動画(３分)](https://drive.google.com/file/d/1ANewasmQ9Rs_Pi6g4G_ywwmX-Y41VhOE/preview)
-  - 当サービスを解説したQiita記事：[【個人開発】様々な界隈のあるあるを神経衰弱で遊び、Xで交流するサービスを作りました！](https://qiita.com/pakira-56A/items/8fde551e0e14520d6f3c)
+  - X（旧Twitter）でシェアしあう事で、あらゆるカルチャーのユーザーとも交流ができる
+    - 遊んでいただいた皆様の感想はこちら → [#あるある神経衰弱](https://x.com/search?q=%23あるある神経衰弱&src=recent_search_click&f=live)  
+      <img src="https://i.gyazo.com/5bd973d301675701dce8180b5685a712.gif" alt="Image from Gyazo" width="500"/>
 
+　
 ## [**高速ご挨拶クイズ**](https://high-speed-greetings-quiz.vercel.app/)
 [![Image from Gyazo](https://i.gyazo.com/459e9a399414cd8a4e5fa2f101b6b09f.png)](https://high-speed-greetings-quiz.vercel.app/)
 - React（JavaScript）をキャッチアップし始めて３日後、４日間（20時間）で作ったミニアプリです！
@@ -82,7 +86,6 @@
 - **とにかく高速でご挨拶をして、好かれてください！！**  
 - 遊んでいただいた皆様の感想はこちら → [#高速ご挨拶クイズ](https://x.com/search?q=%23高速ご挨拶クイズ&src=recent_search_click&f=live)
   - 以下はまだX（旧Twiiter）にキャッシュが残ってて、OGPが反映できてない頃に撮影したものです
-    [![Image from Gyazo](https://i.gyazo.com/3a8deb56aab2de2b7128fc621cbd3dc7.gif)](https://gyazo.com/3a8deb56aab2de2b7128fc621cbd3dc7)
-  
+    <img src="https://i.gyazo.com/3a8deb56aab2de2b7128fc621cbd3dc7.gif" alt="Image from Gyazo" width="500"/>
 
 
