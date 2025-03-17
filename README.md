@@ -75,17 +75,34 @@
     - 遊んでいただいた皆様の感想はこちら → [#あるある神経衰弱](https://x.com/search?q=%23あるある神経衰弱&src=recent_search_click&f=live)  
       <img src="https://i.gyazo.com/5bd973d301675701dce8180b5685a712.gif" alt="Image from Gyazo" width="500"/>
 
-　
+____
+#### 以下のポートフォリオは、Reactのキャッチアップのために作ったミニアプリです
+- React（JavaScript）をキャッチアップし始めて３日後、各４日間（20時間）で作ったミニアプリです！
+- 「**Reactのキャッチアップの為、"書く力"より先に"読み取って修正する力"をつけるため**のミニアプリ」です。    
+  なのでアプリのコードは一部 V0 という AI に書かせました。  
+  そこから手動で修正やコンポーネント化を加えたり、基礎的なJavaScriptの書き方を模写して学んでゆきました。
+  
 ## [**高速ご挨拶クイズ**](https://high-speed-greetings-quiz.vercel.app/)
 [![Image from Gyazo](https://i.gyazo.com/459e9a399414cd8a4e5fa2f101b6b09f.png)](https://high-speed-greetings-quiz.vercel.app/)
-- React（JavaScript）をキャッチアップし始めて３日後、４日間（20時間）で作ったミニアプリです！
-- 「**Reactのキャッチアップの為、"書く力"より先に"読み取って修正する力"をつけるため**のミニアプリ」です。    
-  なので、このクイズアプリのコードは一部 V0 という AI に書かせました。  
-  そこから手動で修正やコンポーネント化を加えたり、基礎的なJavaScriptの書き方を模写して学んでゆきました。
 ### 当サービス概要
 - **とにかく高速でご挨拶をして、好かれてください！！**  
-- 遊んでいただいた皆様の感想はこちら → [#高速ご挨拶クイズ](https://x.com/search?q=%23高速ご挨拶クイズ&src=recent_search_click&f=live)
-  - 以下はまだX（旧Twiiter）にキャッシュが残ってて、OGPが反映できてない頃に撮影したものです
-    <img src="https://i.gyazo.com/3a8deb56aab2de2b7128fc621cbd3dc7.gif" alt="Image from Gyazo" width="500"/>
+  - 遊んでいただいた皆様の感想はこちら → [#高速ご挨拶クイズ](https://x.com/search?q=%23高速ご挨拶クイズ&src=recent_search_click&f=live)
+ 
+
+
+## [お天気ルーレットおみくじ](https://otenki-omikuji.vercel.app/)
+[![Image from Gyazo](https://i.gyazo.com/1c85719846e729406564c77a90fb0e7c.png)](https://otenki-omikuji.vercel.app/)
+### 当サービス概要
+- 気象庁さんの予報データでおみくじが引けます！
+
+## Reactのキャッチアップで学んだ事
+- Reactのコンポーネント化の際に渡す`props`の存在
+- コンポーネントの呼び出し方（エクスポートの仕方）
+- コンポーネント化すると、１つのファイルの中でHTML/CSS/JavaScriptの記載がまとまっており、管理しやすいと感じた
+  - ボタンのスタイル等もコンポーネント化しておくと、共通化できて便利！
+- ライブラリ`react-share`を使うと、X以外にもあらゆる媒体のシェアボタンが実装できる
+- OGPの設定は、HTMLに追記することで事足りる
+- **Fetch APIの方法**（`async` `await`）で、API KEYを取得・活用しなくてもAPIのデータが取得できる
+- APIから取得したデータを元に、アプリ内に用意した画像を出しわけができる
 
 
