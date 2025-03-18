@@ -84,7 +84,7 @@ ____
   
 ## [**高速ご挨拶クイズ**](https://high-speed-greetings-quiz.vercel.app/)
 [![Image from Gyazo](https://i.gyazo.com/459e9a399414cd8a4e5fa2f101b6b09f.png)](https://high-speed-greetings-quiz.vercel.app/)
-### 当サービス概要
+**当サービス概要**
 - **とにかく高速でご挨拶をして、好かれてください！！**  
   - 遊んでいただいた皆様の感想はこちら → [#高速ご挨拶クイズ](https://x.com/search?q=%23高速ご挨拶クイズ&src=recent_search_click&f=live)
  
@@ -92,7 +92,7 @@ ____
 
 ## [お天気ルーレットおみくじ](https://otenki-omikuji.vercel.app/)
 [![Image from Gyazo](https://i.gyazo.com/1c85719846e729406564c77a90fb0e7c.png)](https://otenki-omikuji.vercel.app/)
-### 当サービス概要
+**当サービス概要**
 - 気象庁さんの予報データでおみくじが引けます！
 
 ## Reactのキャッチアップで学んだ事
