@@ -81,6 +81,9 @@ ____
 - 「**Reactのキャッチアップの為、"書く力"より先に"読み取って修正する力"をつけるため**のミニアプリ」です。    
   なのでアプリのコードは一部 V0 という AI に書かせました。  
   そこから手動で修正やコンポーネント化を加えたり、基礎的なJavaScriptの書き方を模写して学んでゆきました。
+  - なぜAIに書かせたのか  
+    Github内でReact(JavaScript)のコードを検索して読もうとはしたのですが
+    純粋なReactだけのコードを探し出すのは難しかったので、一旦AIに書かせた次第です。
   
 ## [**高速ご挨拶クイズ**](https://high-speed-greetings-quiz.vercel.app/)
 [![Image from Gyazo](https://i.gyazo.com/459e9a399414cd8a4e5fa2f101b6b09f.png)](https://high-speed-greetings-quiz.vercel.app/)
