@@ -93,7 +93,7 @@ ____
 
 ## [お天気ルーレットおみくじ](https://otenki-omikuji.vercel.app/)
 [![Image from Gyazo](https://i.gyazo.com/1c85719846e729406564c77a90fb0e7c.png)](https://otenki-omikuji.vercel.app/)
-- 気象庁さんの予報データでおみくじが引けます！
+- **気象庁さんのAPI（予報データ）でおみくじが引けます！** 　遊んでいただいた皆様の感想はこちら → [#お天気ルーレットおみくじ](https://x.com/search?q=%23お天気ルーレットおみくじ&src=recent_search_click&f=live)
 
 ## Reactのキャッチアップで学んだ事
 - Reactのコンポーネント化の際に渡す`props`の存在
