@@ -16,8 +16,8 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react)](https://skillicons.dev)　
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,docker)](https://skillicons.dev)　
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react)](https://skillicons.dev)　　
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,docker)](https://skillicons.dev)　　
 [![My Skills](https://skillicons.dev/icons?i=aws,postgresql,figma,git,github)](https://skillicons.dev)　
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pakira-56a&show_icons=true&locale=en&layout=compact" alt="pakira-56a" /></p>
