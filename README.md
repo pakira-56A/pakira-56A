@@ -42,7 +42,7 @@
       <img src="https://i.gyazo.com/5bd973d301675701dce8180b5685a712.gif" alt="Image from Gyazo" width="500"/>
 
 ____
-#### 以下のポートフォリオは、Reactのキャッチアップのために作ったミニアプリです
+## 以下のポートフォリオは、Reactのキャッチアップのために作ったミニアプリです
 - React（JavaScript）をキャッチアップし始めて３日後、各４日間（20時間）で作ったミニアプリです！
 - 「**Reactのキャッチアップの為、"書く力"より先に"読み取って修正する力"をつけるため**のミニアプリ」です。    
   なのでアプリのコードは一部 V0 という AI に書かせました。  
@@ -50,16 +50,12 @@ ____
   - **なぜAIに書かせたのか**  
     Github内でReact(JavaScript)のコードを検索して読もうとはしたのですが  
     純粋なReactだけのコードを探し出すのは難しかったので、一旦AIに書かせた次第です。
-  
-## [**高速ご挨拶クイズ**](https://high-speed-greetings-quiz.vercel.app/)
-[![Image from Gyazo](https://i.gyazo.com/459e9a399414cd8a4e5fa2f101b6b09f.png)](https://high-speed-greetings-quiz.vercel.app/)
-- **とにかく高速でご挨拶をして、好かれてください！！**　　遊んでいただいた皆様の感想はこちら → [#高速ご挨拶クイズ](https://x.com/search?q=%23高速ご挨拶クイズ&src=recent_search_click&f=live)
- 
 
-
-## [お天気ルーレットおみくじ](https://otenki-omikuji.vercel.app/)
-[![Image from Gyazo](https://i.gyazo.com/1c85719846e729406564c77a90fb0e7c.png)](https://otenki-omikuji.vercel.app/)
-- **気象庁さんのAPI（予報データ）でおみくじが引けます！** 　遊んでいただいた皆様の感想はこちら → [#お天気ルーレットおみくじ](https://x.com/search?q=%23お天気ルーレットおみくじ&src=recent_search_click&f=live)
+| [**高速ご挨拶クイズ**](https://high-speed-greetings-quiz.vercel.app/)  | [お天気ルーレットおみくじ](https://otenki-omikuji.vercel.app/) |
+|:---|:---|
+|[![Image from Gyazo](https://i.gyazo.com/459e9a399414cd8a4e5fa2f101b6b09f.png)](https://high-speed-greetings-quiz.vercel.app/)  | [![Image from Gyazo](https://i.gyazo.com/1c85719846e729406564c77a90fb0e7c.png)](https://otenki-omikuji.vercel.app/) |
+|**とにかく高速でご挨拶をして、好かれてください💛**| **気象庁さんのAPI（予報データ）でおみくじが引けます**🍀|
+| 遊んでいただいた皆様の感想はこちら → [#高速ご挨拶クイズ](https://x.com/search?q=%23高速ご挨拶クイズ&src=recent_search_click&f=live)   | [#お天気ルーレットおみくじ](https://x.com/search?q=%23お天気ルーレットおみくじ&src=recent_search_click&f=live)   |
 
 ## Reactのキャッチアップで学んだ事
 - Reactのコンポーネント化の際に渡す`props`の存在
@@ -71,5 +67,6 @@ ____
 - **Fetch API**で、API KEYを取得・活用しなくてもAPIのデータが取得できる
 - 非同期通信（`async` `await`）
 - APIから取得したデータを元に、アプリ内に用意した画像を出しわけができる
+
 
 
